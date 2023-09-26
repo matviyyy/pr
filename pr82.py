@@ -19,5 +19,3 @@ for line in lines:
 print("Результат:")
 for line in result_lines:
     print(line)
-
-print('dad')
